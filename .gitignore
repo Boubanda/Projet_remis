@@ -1,0 +1,33 @@
+# Ignorer l'environnement virtuel
+venv/
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+
+# Configurations spécifiques à l'éditeur
+.vscode/
+.idea/
+
+# Dépendances installées
+*.log
+*.env
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*.swo
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Fichiers de logs et de débogage
+logs/
+debug.log
+
+# Ignorer les datasets temporaires
+*.csv
+*.json
+*.xlsx
+*.db
+
